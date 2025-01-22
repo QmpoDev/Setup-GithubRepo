@@ -1,6 +1,6 @@
 # Name
-First Name: Paul Emmanuelle
+First Name: Paul Emmanuelle<br>
 Last Name: Quimpo
-<br>
+
 # My Desired role in APPDEV:
 Full-Stack Developer
